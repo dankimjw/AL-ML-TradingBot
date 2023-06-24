@@ -1,6 +1,7 @@
 # AL-ML-TradingBot
 
-Project was created as a team, but because the team is no longer working together after graduating, I created a public repository to share our work.
+Project was for a capstone course in Computer Science at Oregon State University.
+(Model.py credit: my teammates at Oregon State University)
 
 # Streamlit App Preview
 ![GUI](https://github.com/dankimjw/AL-ML-TradingBot/blob/main/images/gui.jpg)
