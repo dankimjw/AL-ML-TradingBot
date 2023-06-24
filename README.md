@@ -1,6 +1,6 @@
 # AL-ML-TradingBot
 
-**About**: Project was for a capstone course in Computer Science at Oregon State University. Because the original repository was created by a team member, I wanted to create a separate repository to host the app and showcase the work that I contributed.
+**About**: Project was for a capstone course in the undergraduate Computer Science program at Oregon State University. Because the original repository was created by a team member, I wanted to create a separate repository to host the app and showcase the work that I contributed.
 
 * (Model.py & training_data related files credit: my teammates at Oregon State University)
 
